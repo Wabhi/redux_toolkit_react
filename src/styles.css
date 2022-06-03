@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main_div {
+  background-color: darkgray;
+  border: darkmagenta 2px solid;
+  color: #fff;
+}
+
+.loading {
+  color: red;
+  text-align: center;
+}
